@@ -28,6 +28,13 @@ export default function Home() {
           >
             CONTACT ME
           </a>
+
+          <a
+            href="mailto:me@anastasi-design.gallery"
+            className="font-mono text-[18px] leading-none hover:text-accent sm:text-[20px]"
+          >
+            me@anastasi-design.gallery
+          </a>
         </div>
 
         <div className="relative flex w-full max-w-[584px] flex-col items-center gap-4">
