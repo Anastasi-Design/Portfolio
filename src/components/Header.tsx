@@ -12,7 +12,7 @@ export default function Header() {
 
   return (
     <header className="flex flex-wrap items-center gap-4 px-6 py-6 sm:px-10">
-      <span className="font-display text-[30px] leading-none">ALI-HA</span>
+      <span className="font-display text-[30px] leading-none">Anastasi-Design</span>
 
       <nav className="ml-auto flex items-center gap-6 font-display text-[22px] leading-none sm:text-[26px] sm:mr-8">
         <div className="flex items-center overflow-hidden">

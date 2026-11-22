@@ -14,7 +14,7 @@ const jetBrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "ALI-HA — Product designer",
+  title: "Anastasi-Design — Product designer",
   description:
     "I design mobile app interfaces, from initial user flows to screens ready for development.",
 };
